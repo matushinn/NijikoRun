@@ -63,6 +63,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\NejikoScripts.cs" />
     <Compile Include="Assets\Scripts\SimpleFollow.cs" />
+    <Compile Include="Assets\Scripts\StageGenerator.cs" />
     <None Include="Assets\NejikoBaseAssets\LICENSE.txt" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>/Users/ooeshoutarou/Programming Bible-Unity/NijikoRun/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>

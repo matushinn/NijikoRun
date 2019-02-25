@@ -1,8 +1,9 @@
 ﻿<Properties StartupConfiguration="{C1ABFACE-12CA-04E5-80AF-4891F17094D1}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SimpleFollow.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/StageGenerator.cs">
     <Files>
-      <File FileName="Assets/Scripts/NejikoScripts.cs" Line="32" Column="50" />
-      <File FileName="Assets/Scripts/SimpleFollow.cs" Line="7" Column="13" />
+      <File FileName="Assets/Scripts/NejikoScripts.cs" Line="94" Column="71" />
+      <File FileName="Assets/Scripts/SimpleFollow.cs" Line="22" Column="127" />
+      <File FileName="Assets/Scripts/StageGenerator.cs" Line="7" Column="5" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -10,7 +11,7 @@
           <Node name="NijikoRun" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
-                <Node name="SimpleFollow.cs" selected="True" />
+                <Node name="StageGenerator.cs" selected="True" />
               </Node>
             </Node>
           </Node>
